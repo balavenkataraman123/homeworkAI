@@ -9,8 +9,8 @@ SENTENCE_MATCHES = 1
 QUESTION_WORDS = ["how", "what", "where", "when", "why", "who", "which"]
 
 def main():
-    print("Technoplus question answering AI")
-    print("Technoplus inc 2020, code by Bala Venkataraman")
+    print("Question answering AI")
+    print("by Bala Venkataraman")
     filen = input("Filename:")
     # Calculate IDF values across files
     files = load_files(filen)
