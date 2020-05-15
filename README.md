@@ -6,7 +6,7 @@ Convert your textbooks to a text file, run the python file questions.py, and ent
 Needs NLTK.
 
 
-This does not work with math, or physics, or any subject that requires calculation. recommended for history, geography(maybe), and comprehension questions
+This does not work with math, or physics, or any subject that requires calculation. Recommended for history, geography(maybe), and comprehension questions
 
 
 
