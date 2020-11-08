@@ -1,11 +1,11 @@
 # homeworkAI
-an AI that can do homework.
-
+a program that can do homework. 
+finds answer that matches words in the question in the textbook or other document, works great with fill in the blanks questions.
 
 Convert your textbooks to a text file, run the python file questions.py, and enter the filepath and the questions.
 Needs NLTK.
 
-
+not recommended to use for doing homework, although it has a reasonable accuracy. I only did this to learn about NLP
 This does not work with math, or physics, or any subject that requires calculation. Recommended for history, geography(maybe), and comprehension questions
 
 
