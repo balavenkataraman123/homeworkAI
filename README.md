@@ -5,8 +5,8 @@ finds answer that matches words in the question in the textbook or other documen
 Convert your textbooks to a text file, run the python file questions.py, and enter the filepath and the questions.
 Needs NLTK.
 
-not recommended to use for doing homework, although it has a reasonable accuracy. I only did this to learn about NLP
-This does not work with math, or physics, or any subject that requires calculation. Recommended for history, geography(maybe), and comprehension questions
+not recommended to use for doing homework as you wont learn anything, although it has a reasonable accuracy. I only did this to learn about NLP
+This does not work with math, or physics, or any subject that requires calculation. works for history, geography(maybe), and comprehension questions
 
 
 
